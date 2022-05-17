@@ -62,7 +62,8 @@ public class BrotherPrinter extends CordovaPlugin {
             PrinterInfo.Model.QL_720NW,
             PrinterInfo.Model.QL_820NWB,
             PrinterInfo.Model.QL_1110NWB,
-            PrinterInfo.Model.TD_2120N
+            PrinterInfo.Model.TD_2120N,
+            PrinterInfo.Model.QL_810W
     };
 
     private MsgHandle mHandle;
